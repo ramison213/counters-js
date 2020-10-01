@@ -1,0 +1,26 @@
+.wrap {
+    display: flex;
+    justify-content: center;
+}
+
+.counter {
+    width: 100px;
+    height: 100px;
+    border: 4px double black;
+
+    text-align: center;
+    font-size: 3rem;
+    line-height: 100px;
+}
+
+.count-wrap {
+    width: 100px;
+    border: 4px double black;
+    text-align: center;
+    font-size: 3rem;
+}
+
+h3 {
+    text-align: center;
+    margin: 50px 0;
+}
